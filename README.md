@@ -1,5 +1,5 @@
-Contact Info Saver
-Overview
+Contact Info Saver Overview
+
 The Contact Info Saver is a full-stack web application designed to help users save and manage their contact information efficiently. 
 The application features a backend built with Spring Boot, providing a RESTful API for managing contacts, and a frontend developed with React, 
 offering an intuitive user interface for interacting with the contact data.
